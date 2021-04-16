@@ -1,0 +1,65 @@
+
+
+*{
+
+    margin: 0;
+    padding: 0;
+
+}
+
+#contenedor{
+    width: 85%;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+
+}
+
+.header{
+
+        background: cornflowerblue;
+        color: white;
+        height: 60px;
+        margin-top: 15px;
+        margin-bottom: 1%;
+
+
+
+}
+
+
+.logo{
+
+    text-transform: uppercase;
+
+}
+
+.logo a{
+    text-decoration: none;
+    color: white;
+
+
+}
+
+
+.navbar ul{
+
+    list-style-type: none;
+    text-align: right;
+
+    
+}
+
+.navbar ul li a {
+text-decoration: none;
+display: block;
+color:bisque;
+}
+
+.navbar ul li a:hover{
+background: red;
+color: black;
+
+}
